@@ -100,7 +100,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #c29090;
+		background: #88852d;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2708,27 +2708,27 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #e6d8db;
+				background-color: #f9f6f7;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #e6d8db;
+				background-color: #f9f6f7;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #e6d8db;
+				background-color: #f8f5f6;
 			}
 
 			.tiles article.style4 > .image:before {
-				background-color: #e6d8db;
+				background-color: #f8f6f6;
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #e6d8db;
+				background-color: #f0eced;
 			}
 
 			.tiles article.style6 > .image:before {
-				background-color: #e6d8db;
+				background-color: #f4f4f4;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
@@ -2990,7 +2990,7 @@ input, select, textarea {
 		max-width: 80%;
 		height: 100%;
 		-webkit-overflow-scrolling: touch;
-		background: #585858;
+		background: #f9f7f7;
 		color: #ffffff;
 		cursor: default;
 		visibility: hidden;
