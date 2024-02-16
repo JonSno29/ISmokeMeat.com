@@ -2595,7 +2595,8 @@ input, select, textarea {
 				transition: transform 0.5s ease;
 				position: relative;
 				display: block;
-				width: 100%;
+				width: 350px;
+				height: 200px;
 				border-radius: 4px;
 				overflow: hidden;
 			}
