@@ -23,6 +23,7 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
     color: rgb(140, 20, 20);
+	text-shadow: rgb(250, 251, 249) 0 -1px;
 	font: inherit;
 	vertical-align: baseline;}
 

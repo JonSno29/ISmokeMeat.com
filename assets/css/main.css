@@ -24,13 +24,17 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font-weight: bold;
 	color: rgb(247, 41, 9);
+	text-shadow: rgb(250, 251, 249) 0 -1px;
 	font: inherit;
 	vertical-align: baseline;}
 
+
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+	display: inline;
 
+}
 body {
 	line-height: 1;
 }

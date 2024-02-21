@@ -23,7 +23,8 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
     color: rgb(140, 20, 20);
-	font: inherit;
+	text-shadow: rgb(250, 251, 249) 0 -1px;
+    font: inherit;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
